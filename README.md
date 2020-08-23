@@ -1,2 +1,2 @@
 # NLP
-Several notebooks with basic operations in different NLP projects.
+Several notebooks provide basic operations for building different NLP projects.
